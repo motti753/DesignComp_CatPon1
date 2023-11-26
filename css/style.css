@@ -193,6 +193,20 @@ h2 {
   gap: 1em;
   justify-content: flex-end;
 }
+
+/* ------------------- */
+/* notice              */
+/* ------------------- */
+.notice {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.notice a {
+  text-decoration: solid;
+  color: #24a8bf;
+}
+
 /* ------------------- */
 /* footer              */
 /* ------------------- */
